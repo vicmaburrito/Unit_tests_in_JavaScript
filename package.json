@@ -1,0 +1,25 @@
+{
+  "name": "unit_tests_in_javascript",
+  "version": "1.0.0",
+  "description": "Learn how to use one of the most popular testing libraries and write tests for the smallest parts (units) of your application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicmaburrito/Unit_tests_in_JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicmaburrito/Unit_tests_in_JavaScript/issues"
+  },
+  "homepage": "https://github.com/vicmaburrito/Unit_tests_in_JavaScript#readme",
+  "devDependencies": {
+    "jest": "^27.2.4",
+    "webpack": "^5.57.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
