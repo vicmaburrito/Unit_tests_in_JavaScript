@@ -1,5 +1,5 @@
 const { it } = require("@jest/globals");
-const stringLength = require("./stringLength");
+const stringLength = require("./stringLength.js");
 
 it('returns null for length of 0', () =>{expect(stringLength('')).toBeNull()});
 it('returns string length of 5', () =>{expect(stringLength('hello')).toBe(5)});
